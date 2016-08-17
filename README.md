@@ -4,6 +4,10 @@ Litter Busters is an interactive game that promotes enviromental awareness by pr
 
 Controls:
 W - move up
+
 A - move left
+
 S - move down
+
 D - move right
+
